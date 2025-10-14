@@ -43,3 +43,6 @@ My current research focuses on [RL-driven control for humanoid robot](); [Diffus
 [Convex optimization, optimal and robust control](); [Dynamical systems, real time embedded system](); [Physical AI]().
 
 I am eager to explore robotics from both theoretical and practical perspectives, leveraging my foundation in dynamical system, control theory, optimization, machine learning and embedded system.
+
+My [favorite quote]() from [David Blackwell]():
+"Basically, I'm not interested in doing research and I never have been... I'm interested in understanding, which is quite a different thing. And often to understand something you have to work it out yourself because no one else has done it."
