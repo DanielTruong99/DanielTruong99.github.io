@@ -459,7 +459,7 @@ ninja.data = [{
               window.location.href = "/projects/114_project/";
             },},{id: "projects-lqr-mpc-rl-for-swing-up-inverted-pendullum",
           title: 'LQR, MPC, RL for Swing Up Inverted Pendullum',
-          description: "Advisor: Dr. Truong Quang Tri, Dr. Pham Tan Hanh Keywords: MPC, LQR, RL, System IdentificationTools: C++, RTOS, Linux Embedded, Casadi, STM32Ref: textbook",
+          description: "Main Authors: Le Quoc Cuong, Nguyen Thanh VuAdvisor: Dr. Truong Quang Tri, Dr. Pham Tan Hanh Keywords: MPC, LQR, RL, System IdentificationTools: C++, RTOS, Linux Embedded, Casadi, STM32Ref: textbook",
           section: "Projects",handler: () => {
               window.location.href = "/projects/115_project/";
             },},{id: "projects-dynamic-modelling-and-control-quadcopter",
