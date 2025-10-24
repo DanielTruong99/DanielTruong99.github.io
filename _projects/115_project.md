@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LQR, MPC, RL for Swing Up Inverted Pendullum
-description: "Advisor: Dr. Truong Quang Tri, Dr. Pham Tan Hanh <br>Keywords: MPC, LQR, RL, System Identification<br>Tools: C++, RTOS, Linux Embedded, Casadi, STM32<br>Ref: textbook"
+description: "Main Authors: Le Quoc Cuong, Nguyen Thanh Vu<br>Advisor: Dr. Truong Quang Tri, Dr. Pham Tan Hanh <br>Keywords: MPC, LQR, RL, System Identification<br>Tools: C++, RTOS, Linux Embedded, Casadi, STM32<br>Ref: textbook"
 img: assets/img/publication_preview/pendullum.gif
 importance: 27
 category: work
