@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pure RL Walking Outdoor
-description: "Advisor: Prof. Choi Hyuk Reol<br>Keyworks: Sim2Real, SysID, PPO<br>Tools: IsaacLab, Rslrl, C++, ONNX, Xenomai RTOS"
+description: "Advisor: Prof. Choi Hyuk Reol<br>Keyworks: Sim2Real, SysID, RL<br>Tools: IsaacLab, Rslrl, C++, ONNX, Xenomai RTOS"
 img: assets/img/newfoot_outdoor.gif
 importance: 2
 category: work
